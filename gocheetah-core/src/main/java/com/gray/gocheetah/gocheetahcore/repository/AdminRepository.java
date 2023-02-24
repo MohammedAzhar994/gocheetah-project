@@ -11,7 +11,7 @@ import java.util.function.Function;
 
 /**
  * Created by IntelliJ IDEA Ultimate.
- * User: Pasindu Raveen
+ * User: Mohammed Azhar
  * Date: 28-Aug-22
  * Time: 12:33 PM
  * gocheetah-core
